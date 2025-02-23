@@ -8,7 +8,7 @@
     font-size: 2rem;
     font-weight: bold;
     margin-bottom: 30px;
-    color: #333;
+    color: white;
   }
   
   .teamGrid {
@@ -44,19 +44,19 @@
   .name {
     font-size: 1.2rem;
     font-weight: bold;
-    color: #222;
+    color: white;
   }
   
   .role {
     font-size: 1rem;
     font-weight: 600;
-    color: #555;
+    color: white;
     margin-bottom: 10px;
   }
   
   .description {
     font-size: 0.9rem;
-    color: #666;
+    color: white;
     line-height: 1.4;
   }
   
